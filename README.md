@@ -1,4 +1,6 @@
 # test-repo
 This is a test repo
-* is this a list?
+* is this a list item?
 * and this?
+
+By George they are!
